@@ -1,6 +1,6 @@
 # http_app
 
-IT is a flutter project which depicts the Integration of an API in flutter project.
+IT is a flutter project which depicts the Integration of an API.
 
 ## Getting Started
 
