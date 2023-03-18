@@ -1,6 +1,6 @@
 # http_app
 
-A new Flutter project.
+IT is a flutter project which depicts the Integration of an API in flutter project.
 
 ## Getting Started
 
